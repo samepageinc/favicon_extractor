@@ -1,4 +1,3 @@
-require 'pry'
 module FaviconExtractor
   class ExtractsFaviconsFromHtml
     class << self
